@@ -78,6 +78,10 @@ without SRTP MODE. In order to enable read the guide and generate the certificat
 You can modify & save the preferences via web for the config.xml file.
 
 
+###Screenshot###
+
+![](http://2.bp.blogspot.com/-NatPt8jnAd8/UZ-3mzxU-rI/AAAAAAAAAds/s2Z7Xss_usE/s640/Screenshot+from+2013-05-24+11%253A32%253A05.png)
+
 Enjoy ;)
 
 									  
