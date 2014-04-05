@@ -64,9 +64,11 @@ RPM alternative(faster than compile from sources):
 ### Tarball webrtc2sip ###
 
 INSTALLATION:
-1. Open the FreePBX GUI in your Browser Go to ADMIN --> Module Admin.
-2. Then choose Upload Module. Browse for the webrtc2sip-0.1.tar.gz tarball.
-3. Navigate to Unsupported Modules select the New Module & install the Module.
+1.  Open the FreePBX GUI in your Browser Go to ADMIN --> Module Admin.
+
+2.  Then choose Upload Module. Browse for the webrtc2sip-0.1.tar.gz tarball.
+
+3.  Navigate to Unsupported Modules select the New Module & install the Module.
 
 This tarball provides a WebRTC2SIP Gateway Settings Module for FreePBX, it will create 
 an entry in the Menu 'Admin' called WebRTC2SIP Settings. The tested configuration works 
