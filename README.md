@@ -43,7 +43,7 @@ RPM alternative(faster than compile from sources):
 
 1. `Download & untar https://dl.dropboxusercontent.com/u/1277237/RPM4WebRTC.tar.gz`
 2. `yum install -y screen perl-WWW-Curl`
-3.`rpm -ihv libtool-2.4.2-DMv1.i386.rpm`
+3. `rpm -ihv libtool-2.4.2-DMv1.i386.rpm`
 
 	`rpm -ihv libsrtp-1.4.5-DMv1.i386.rpm`
 
@@ -64,7 +64,7 @@ RPM alternative(faster than compile from sources):
 ### Tarball webrtc2sip ###
 
 INSTALLATION:
-1. Open the FreePBX GUI in your Browser Go to ADMIN---->Module Admin.
+1. Open the FreePBX GUI in your Browser Go to ADMIN --> Module Admin.
 2. Then choose Upload Module. Browse for the webrtc2sip-0.1.tar.gz tarball.
 3. Navigate to Unsupported Modules select the New Module & install the Module.
 
