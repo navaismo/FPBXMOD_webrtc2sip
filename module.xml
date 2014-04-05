@@ -1,0 +1,23 @@
+<module>
+        <rawname>webrtc2sip</rawname>
+        <name>WebRTC2SIP Settings</name>
+        <version>0.1</version>
+        <type>tool</type>
+        <publisher>Navaismo</publisher>
+        <license>GPLv2+</license>
+        <description>
+                Provides the configuration for the Doubango's WebRTC2SIP gateway 
+        </description>
+ 	<changelog>
+                *0.1* First Release (Ultrabeta)
+        </changelog>
+        <info>navaismo@gmail.com</info>
+        <category>Unsupported</category>
+        <menuitems>
+                <webrtc2sip category="Admin">WebRTC2SIP Settings</webrtc2sip>
+        </menuitems>
+</module>
+
+
+
+
