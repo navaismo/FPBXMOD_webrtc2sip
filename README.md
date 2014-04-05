@@ -12,10 +12,10 @@
 									 
 
 
-*NOTES*: 
-      * Tested on Vanilla FreePBX install based on CentOS 6.3 32Bits	
-      * Tested on Vanilla FreePBX install based on Fedora 17  32Bits
-      * Tested on FreePBX-Distro FreePBX-3.211.63-8-i386-Full-1366661092	
+**NOTES**: 
+      *Tested on Vanilla FreePBX install based on CentOS 6.3 32Bits	
+      *Tested on Vanilla FreePBX install based on Fedora 17  32Bits
+      *Tested on FreePBX-Distro FreePBX-3.211.63-8-i386-Full-1366661092	
 	**REQUIRE AN ACTIVE INTERNET CONNECTION.**
 
 
