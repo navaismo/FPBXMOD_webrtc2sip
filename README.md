@@ -43,14 +43,20 @@ RPM alternative(faster than compile from sources):
 
 1. `Download & untar https://dl.dropboxusercontent.com/u/1277237/RPM4WebRTC.tar.gz`
 2. `yum install -y screen perl-WWW-Curl`
-3.
-	`rpm -ihv libtool-2.4.2-DMv1.i386.rpm`
+3.`rpm -ihv libtool-2.4.2-DMv1.i386.rpm`
+
 	`rpm -ihv libsrtp-1.4.5-DMv1.i386.rpm`
+
 	`rpm -ihv yasm-1.2.0-DMv1.i386.rpm`
+
 	`rpm -ihv libvpx-1.2.0-DMv1.i386.rpm`
+
 	`rpm -ihv x264-snapshot20130810.2245-DMv1.i386.rpm`
+
 	`rpm -ihv ffmpeg-1.2-DMv1.i386.rpm`
+
 	`rpm -ihv --force --no-deps doubango-2.0r985-DMv1.i386.rpm`
+
 	`rpm -ihv webrtc2sip-2.5.1r114_CentOS-DMv1.i386`
 
 **DO NOT INSTALL THE OPENSSL PACKAGE, IT WILL BREAK YOUR SSH AND OTHER STUFF ON CENTOS 6**
@@ -58,10 +64,9 @@ RPM alternative(faster than compile from sources):
 ### Tarball webrtc2sip ###
 
 INSTALLATION:
-	1. Open the FreePBX GUI in your Browser Go to ADMIN---->Module Admin.
-	2. Then choose Upload Module. Browse for the webrtc2sip-0.1.tar.gz
-		tarball.
-	3. Navigate to Unsupported Modules select the New Module & install the Module.
+1. Open the FreePBX GUI in your Browser Go to ADMIN---->Module Admin.
+2. Then choose Upload Module. Browse for the webrtc2sip-0.1.tar.gz tarball.
+3. Navigate to Unsupported Modules select the New Module & install the Module.
 
 This tarball provides a WebRTC2SIP Gateway Settings Module for FreePBX, it will create 
 an entry in the Menu 'Admin' called WebRTC2SIP Settings. The tested configuration works 
